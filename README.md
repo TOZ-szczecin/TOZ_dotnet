@@ -19,6 +19,11 @@ dotnet build
 
 dotnet run
 
+For publishing:
+
+dotnet publish
+then copy bin/.../publish to service path
+
 # Docker usage
 How to use our application as a docker image explained
 https://github.com/blstream/TOZ_dotnet/wiki/Docker
